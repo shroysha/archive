@@ -1,27 +1,36 @@
 [submodule "digitalclock"]
 	path = digitalclock
-	url = https://github.com/shroysha/digitalclock.git
+	url = ./digitalclock
+	branch = shroysha/digitalclock
 [submodule "facebookrss"]
 	path = facebookrss
-	url = https://github.com/shroysha/facebookrss.git
+	url = ./facebookrss
+	branch = shroysha/facebookrss
 [submodule "googler"]
 	path = googler
-	url = https://github.com/shroysha/googler.git
+	url = ./googler
+	branch = shroysha/googler
 [submodule "hiddenfiletoggle"]
 	path = hiddenfiletoggle
-	url = https://github.com/shroysha/hiddenfiletoggle.git
+	url = ./hiddenfiletoggle
+	branch = shroysha/hiddenfiletoggle
 [submodule "mediaserver"]
 	path = mediaserver
-	url = https://github.com/shroysha/mediaserver.git
+	url = ./mediaserver
+	branch = shroysha/mediaserver
 [submodule "mp3rename"]
 	path = mp3rename
-	url = https://github.com/shroysha/mp3rename.git
+	url = ./mp3rename
+	branch = shroysha/mp3rename
 [submodule "passwordbank"]
 	path = passwordbank
-	url = https://github.com/shroysha/passwordbank.git
+	url = ./passwordbank
+	branch = shroysha/passwordbank
 [submodule "school"]
 	path = school
-	url = https://github.com/shroysha/school.git
+	url = ./school
+	branch = shroysha/school
 [submodule "yahooweather"]
 	path = yahooweather
-	url = https://github.com/shroysha/yahooweather.git
+	url = ./yahooweather
+	branch = shroysha/yahooweather
