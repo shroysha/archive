@@ -1,5 +1,5 @@
 # archive
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/archive](https://github.com/shroysha/shroysha.github.io/tree/master/archive)
+> see code: [https://github.com/shroysha/archive](https://github.com/shroysha/archive)
 
 ## Subprojects 
 1. [digitalclock](digitalclock)
@@ -10,17 +10,17 @@
 1. [mp3rename](mp3rename)
 1. [passwordbank](passwordbank)
 1. [school](school)
-	1. [ap-chapterproblems](school/ap-chapterproblems)
-	1. [ap-pdfscrapper](school/ap-pdfscrapper)
-	1. [ap-pendulum](school/ap-pendulum)
-	1. [ap-readability](school/ap-readability)
-	1. [ap-robocode](school/ap-robocode)
-	1. [honors-firstquadrantgraph](school/honors-firstquadrantgraph)
-	1. [honors-graphing](school/honors-graphing)
-	1. [honors-jpaint](school/honors-jpaint)
-	1. [honors-loopexamples](school/honors-loopexamples)
-	1. [psu-personal-site](school/psu-personal-site)
-	1. [psu-sociology-site](school/psu-sociology-site)
+	1. [ap-chapterproblems](ap-chapterproblems)
+	1. [ap-pdfscrapper](ap-pdfscrapper)
+	1. [ap-pendulum](ap-pendulum)
+	1. [ap-readability](ap-readability)
+	1. [ap-robocode](ap-robocode)
+	1. [honors-firstquadrantgraph](honors-firstquadrantgraph)
+	1. [honors-graphing](honors-graphing)
+	1. [honors-jpaint](honors-jpaint)
+	1. [honors-loopexamples](honors-loopexamples)
+	1. [psu-personal-site](psu-personal-site)
+	1. [psu-sociology-site](psu-sociology-site)
 1. [yahooweather](yahooweather)
 
 ## Description
