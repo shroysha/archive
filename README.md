@@ -1,5 +1,5 @@
 # archive
-> see code: [https://github.com/shroysha/archive](https://github.com/shroysha/archive)
+{*> see code: [https://github.com/shroysha/archive](https://github.com/shroysha/archive)*}
 
 ## Subprojects 
 1. [digitalclock](https://github.com/shroysha/digitalclock)
